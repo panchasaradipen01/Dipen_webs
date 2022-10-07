@@ -1,0 +1,18 @@
+/* CSS Selector: Tag */
+
+body{
+    background-color: white;
+    color:black
+}
+header{
+    background-color: orangered;
+}
+h1{
+    color:green;
+}
+p{
+    color:rgb(0, 114, 130);
+}
+footer{
+    background-color: rgb(71, 1, 58);
+}

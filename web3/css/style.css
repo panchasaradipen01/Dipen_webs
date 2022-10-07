@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color:white;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h1,h2,h6{
+    background-color: rgb(51, 128, 0);
+    color:rgb(246, 255, 0);
+}
+
+section h2{
+    text-align: center;
+    border:solid 2px yellow;
+}
+
