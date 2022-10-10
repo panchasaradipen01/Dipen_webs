@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+}
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border: solid 2px rgb(9, 0, 87);
+    width: 50%;
+    border-collapse: collapse;
+}
+td,th{
+    border: solid 1pxrgb(9, 0, 87);
+    text-align: left;
+}
+th{
+    width: 20%;
+}
+tr{
+    background-color: rgb(255, 255, 255);
+}
+
+tr:nth-child(odd){
+    background-color: rgb(93, 239, 255);
+}
