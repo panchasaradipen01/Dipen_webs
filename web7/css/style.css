@@ -1,0 +1,38 @@
+html {
+    font-size: 10px;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+  
+h1{
+    font-size: 5rem;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px rgb(106, 255, 0), 2px 2px 1px red;
+    text-align: center;
+    letter-spacing: 2px;
+    color: aliceblue;
+}
+  
+h1 + p {
+    font-weight: bold;
+}
+  
+p{
+    font-size: 1.5rem;
+    color: rgb(0, 213, 255);
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    letter-spacing: 1px;
+}
+.horizontal {
+    text-underline-position: under;
+    text-decoration: underline;
+}
+.spacing{
+    letter-spacing: 5px;
+    color: coral;
+}
+b{
+    color: rgb(0, 255, 94);
+}
