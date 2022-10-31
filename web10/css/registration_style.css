@@ -1,0 +1,51 @@
+#regform{
+    border:solid 3px rgb(255, 0, 0);
+    display: block;  
+    background-color: white;  
+    color: black;
+    width: 50%;
+    margin-left: 350px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 50px;
+    font-size: x-large;
+}
+.container{
+    display: block;    
+}
+.row{
+    width: 90%;
+    padding: 20px;  
+    border: solid 3px black;
+    margin: 22px;
+}
+.column{
+    width: max-content;  
+    padding: 5px; 
+    font-size: x-large;
+    background-color: grey;
+    border: solid 3px black;
+}
+.columnn{
+    width: max-content;  
+    padding: 5px; 
+    font-size: x-large;
+    margin-right: 30px;
+    
+}
+.columnn1{
+    width: max-content;  
+    padding: 5px; 
+    font-size: x-large;
+    margin-right: 90px;
+    
+}
+.button
+{
+    background-color: rgb(57, 57, 57);
+    padding: 5px; 
+    font-size: x-large;
+    margin-left: 28%;
+    width: 53%;
+    color: white;
+}
